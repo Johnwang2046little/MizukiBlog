@@ -14,12 +14,10 @@ yarn-error.log*
 pnpm-debug.log*
 
 # environment variables
-.env
-.env.production
+
 
 # content repository (independent mode)
-content/
-*.backup
+
 
 # Large zip files
 *.zip
@@ -29,9 +27,7 @@ content/
 
 .vercel
 
-package-lock.json
-bun.lockb
-yarn.lock
+
 
 # ide
 .idea
@@ -39,5 +35,4 @@ yarn.lock
 
 cache/
 fuwari/
-src/data/myself.ts
-src/pages/myself.astro
+
