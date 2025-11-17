@@ -197,6 +197,8 @@ export const ja: Translation = {
 	[Key.timelineWork]: "職歴",
 	[Key.timelineProject]: "プロジェクト経験",
 	[Key.timelineAchievement]: "実績",
+	[Key.timelinePlay]:"遊びの経験",
+	[Key.timelineEvent]:"事件",
 	[Key.timelinePresent]: "現在",
 	[Key.timelineLocation]: "場所",
 	[Key.timelineDescription]: "詳細説明",

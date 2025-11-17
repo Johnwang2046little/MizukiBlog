@@ -204,6 +204,8 @@ export const en: Translation = {
 	[Key.timelineWork]: "Work Experience",
 	[Key.timelineProject]: "Project Experience",
 	[Key.timelineAchievement]: "Achievements",
+	[Key.timelinePlay]:"Playing Experience",
+	[Key.timelineEvent]:"Event",
 	[Key.timelinePresent]: "Present",
 	[Key.timelineLocation]: "Location",
 	[Key.timelineDescription]: "Detailed Description",
