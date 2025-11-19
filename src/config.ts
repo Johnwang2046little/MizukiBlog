@@ -23,7 +23,7 @@ const SITE_TIMEZONE = 8; //设置你的网站时区 from -12 to 12 default in UT
 export const siteConfig: SiteConfig = {
 	title: "糯米粽",
 	subtitle: "糯米粽的超棒博客！",
-	siteURL: "https://mizuki.mysqil.com/", // 请替换为你的站点URL，以斜杠结尾
+	siteURL: "https://2046home.dpdns.org/", // 请替换为你的站点URL，以斜杠结尾
 
 	timeZone: SITE_TIMEZONE,
 
@@ -311,10 +311,10 @@ export const expressiveCodeConfig: ExpressiveCodeConfig = {
 };
 
 export const commentConfig: CommentConfig = {
-	enable: false, // 启用评论功能。当设置为 false 时，评论组件将不会显示在文章区域。
+	enable: true, // 启用评论功能。当设置为 false 时，评论组件将不会显示在文章区域。
 	twikoo: {
-		envId: "https://twikoo.vercel.app",
-		lang: "en", // 设置 Twikoo 评论系统语言为英文
+		envId: "https://lawqgfsrmdox.ap-southeast-1.clawcloudrun.com",
+		lang: "zh-CN", // 设置 Twikoo 评论系统语言为英文
 	},
 };
 
