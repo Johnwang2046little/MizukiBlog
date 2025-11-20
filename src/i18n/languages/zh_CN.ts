@@ -8,6 +8,12 @@ export const zh_CN: Translation = {
 	[Key.search]: "搜索",
 	[Key.other]: "其他",
 
+	// 导航栏标题
+	[Key.navLinks]: "链接",
+	[Key.navMy]: "我的",
+	[Key.navAbout]: "关于",
+	[Key.navOthers]: "其他",
+
 	[Key.tags]: "标签",
 	[Key.categories]: "分类",
 	[Key.recentPosts]: "最新文章",
@@ -20,6 +26,14 @@ export const zh_CN: Translation = {
 
 	[Key.comments]: "评论",
 	[Key.friends]: "友链",
+	[Key.friendsSubtitle]: "发现更多优秀网站",
+	[Key.friendsSearchPlaceholder]: "搜索友链名称或描述...",
+	[Key.friendsFilterAll]: "全部",
+	[Key.friendsNoResults]: "未找到匹配的友链",
+	[Key.friendsVisit]: "访问",
+	[Key.friendsCopyLink]: "复制链接",
+	[Key.friendsCopySuccess]: "已复制",
+	[Key.friendsTags]: "标签",
 	[Key.untitled]: "无标题",
 	[Key.uncategorized]: "未分类",
 	[Key.noTags]: "无标签",
@@ -88,6 +102,10 @@ export const zh_CN: Translation = {
 	[Key.albumsBackToList]: "返回相册",
 	[Key.albumsPhotoCount]: "张照片",
 	[Key.albumsPhotosCount]: "张照片",
+
+    // 设备页面
+	[Key.devices]: "我的设备",
+	[Key.devicesSubtitle]: "这里展示了我日常使用的各类设备",
 
 	// 项目展示页面
 	[Key.projects]: "项目展示",
@@ -236,4 +254,36 @@ export const zh_CN: Translation = {
 	[Key.wallpaperBanner]: "横幅模式",
 	[Key.wallpaperFullscreen]: "全屏模式",
 	[Key.wallpaperNone]: "隐藏壁纸",
+
+	// 站点统计
+	[Key.siteStats]: "站点统计",
+	[Key.siteStatsPostCount]: "文章",
+	[Key.siteStatsCategoryCount]: "分类",
+	[Key.siteStatsTagCount]: "标签",
+	[Key.siteStatsTotalWords]: "总字数",
+	[Key.siteStatsRunningDays]: "运行时长",
+	[Key.siteStatsLastUpdate]: "最后活动",
+	[Key.siteStatsDaysAgo]: "{days} 天前",
+	[Key.siteStatsDays]: "{days} 天",
+
+	// 日历组件
+	[Key.calendarSunday]: "日",
+	[Key.calendarMonday]: "一",
+	[Key.calendarTuesday]: "二",
+	[Key.calendarWednesday]: "三",
+	[Key.calendarThursday]: "四",
+	[Key.calendarFriday]: "五",
+	[Key.calendarSaturday]: "六",
+	[Key.calendarJanuary]: "1月",
+	[Key.calendarFebruary]: "2月",
+	[Key.calendarMarch]: "3月",
+	[Key.calendarApril]: "4月",
+	[Key.calendarMay]: "5月",
+	[Key.calendarJune]: "6月",
+	[Key.calendarJuly]: "7月",
+	[Key.calendarAugust]: "8月",
+	[Key.calendarSeptember]: "9月",
+	[Key.calendarOctober]: "10月",
+	[Key.calendarNovember]: "11月",
+	[Key.calendarDecember]: "12月",
 };
