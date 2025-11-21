@@ -1,0 +1,4 @@
+johnwang2046_db_user
+Bkl2hWyqULplLYTX
+mongodb+srv://johnwang2046_db_user:Bkl2hWyqULplLYTX@cluster0.1yamzwj.mongodb.net/?appName=Cluster0
+@cluster0.1yamzwj.mongodb.net

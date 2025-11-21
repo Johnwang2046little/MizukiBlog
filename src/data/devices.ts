@@ -16,13 +16,13 @@ export type DeviceCategory = {
 };
 
 export const devicesData: DeviceCategory = {
-	OnePlus: [
+	Example: [
 		{
-			name: "OnePlus 13T",
-			image: "/images/device/oneplus13t.png",
+			name: "例子",
+			image: "assets/desktop-banner/banner.jpg",
 			specs: "Gray / 16G + 1TB",
-			description: "Flagship performance, Hasselblad imaging, 80W SuperVOOC.",
-			link: "https://www.oneplus.com/cn/13t",
+			description: "作为例子，稍后补充真实数据。",
+			link: "https://baidu.com",
 		},
 	],
 	Router: [

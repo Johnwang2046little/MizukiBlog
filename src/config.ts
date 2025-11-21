@@ -180,13 +180,13 @@ export const siteConfig: SiteConfig = {
 			localFonts: ["ZenMaruGothic-Medium.ttf"],
 			enableCompress: true, // 启用字体子集优化，减少字体文件大小
 		},
-		cjkFont: {
-			// 中日韩字体 - 作为回退字体
-			fontFamily: "萝莉体 第二版",
-			fontWeight: "500",
-			localFonts: ["萝莉体 第二版.ttf"],
-			enableCompress: true, // 启用字体子集优化，减少字体文件大小
-		},
+		// cjkFont: {
+		// 	// 中日韩字体 - 作为回退字体
+		// 	fontFamily: "萝莉体 第二版",
+		// 	fontWeight: "500",
+		// 	localFonts: ["萝莉体 第二版.ttf"],
+		// 	enableCompress: true, // 启用字体子集优化，减少字体文件大小
+		// },
 	},
 	showLastModified: true, // 控制“上次编辑”卡片显示的开关
 };
@@ -334,7 +334,7 @@ export const expressiveCodeConfig: ExpressiveCodeConfig = {
 export const commentConfig: CommentConfig = {
 	enable: true, // 启用评论功能。当设置为 false 时，评论组件将不会显示在文章区域。
 	twikoo: {
-		envId: "https://uifikgvdmqhu.eu-central-1.clawcloudrun.com",
+		envId: "delicate-gnome-f6812c.netlify.app",
 		lang: "zh-CN", // 设置 Twikoo 评论系统语言为英文
 	},
 };
